@@ -44,5 +44,5 @@ The script will process the video and display the output in the terminal. It wil
 Adjusting Line Positions
 The script will automatically adjust the positions of the counting lines based on the video's resolution. It will process the video and display the output in the terminal. The script will count the number of people going up and down, along with the timestamp of each crossing event.
 
-Limitations
+# Limitations
 Please note that this person counting script is a simple example and may not be suitable for all scenarios. Factors such as lighting conditions, video quality, and crowd density can affect the accuracy of the counting. More advanced computer vision techniques and machine learning models can be used for more robust people counting solutions.
