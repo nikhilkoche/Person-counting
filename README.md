@@ -12,8 +12,8 @@ To run the person counting script, you'll need the following dependencies:
 ## How to Use
 
 1. Clone this repository to your local machine:
-https://github.com/nikhilkoche/Person-counting.git
-
+```https://github.com/nikhilkoche/Person-counting.git
+```
 2. Navigate to the cloned repository:
 ```
 cd person-counting-opencv
